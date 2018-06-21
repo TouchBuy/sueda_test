@@ -54,6 +54,8 @@
      <Compile Include="Assets\Locomotion Setup\Locomotion\Scripts\Locomotion.cs" />
      <Compile Include="Assets\Locomotion Setup\Scripts\JoystickToEvents.cs" />
      <Compile Include="Assets\Locomotion Setup\Scripts\LocomotionPlayer.cs" />
+     <Compile Include="Assets\script\sample_change_scene.cs" />
+     <Compile Include="Assets\script\test_change_scene.cs" />
      <Compile Include="Assets\UnityChan\Scripts\CameraController.cs" />
      <Compile Include="Assets\UnityChan\Scripts\FaceUpdate.cs" />
      <Compile Include="Assets\UnityChan\Scripts\IdleChanger.cs" />
