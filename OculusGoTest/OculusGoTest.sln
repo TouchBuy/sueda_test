@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio for Mac
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OculusGoTest", "Assembly-CSharp.csproj", "{B37224DF-8E97-2393-36D5-8E5A1FD94CD7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OculusGoTest", "Assembly-CSharp-Editor.csproj", "{0CDB4844-D2C3-708C-0963-ECFF4740EB15}"
